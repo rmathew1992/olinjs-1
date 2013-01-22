@@ -31,7 +31,7 @@ We want to clone your copy of this lesson's repository. Replace the `_____` in t
 
 ```sh
 $ cd ~ # go to your home directory
-$ git clone https://github.com/_____/olinjs-1-git.git
+$ git clone https://github.com/_____/olinjs-1.git
 Username:
 Password:
 ```
